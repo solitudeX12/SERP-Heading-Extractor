@@ -1,0 +1,26 @@
+### Java / IDE / build
+bin/
+target/
+*.class
+*.jar
+
+# IDE files
+.classpath
+.project
+.settings/
+.vscode/
+
+# Mac / Linux
+.DS_Store
+
+# Logs and runtime
+*.log
+
+# Generated output
+distinct_headings.txt
+
+# Large or private data
+papers_sample/
+
+# Library jars often put in lib/ — if you want to track them, remove this
+lib/*.jar
