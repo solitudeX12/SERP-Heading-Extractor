@@ -2,6 +2,9 @@
 
 A simple multithreaded Java program that extracts distinct sub-headings from plain text or Markdown files, with heuristics tuned for deep-learning related sections (models, architectures, training, experiments).
 
+Search Engine Results Pages (SERP) are the pages displayed by search engines in response to a query by a user. Each result displayed normally includes a title, a link that points to the actual page on the Web, and a short description showing where the keywords have matched content within the page for organic results. The SERP are ranked based on relevance for organic results. Considering the semantic search of users’ query gives more accurate SERP. More importantly, summarizing the relevant content of SERP for users instead of the displayed titles and links will be more useful to users.
+This designs and implement a multithreaded program for returning distinct sub-headings journal papers (on deep learning models).
+
 ## Usage
 
 Compile:
@@ -40,3 +43,4 @@ Next steps
 ## Original VS Code helper
 
 This project also includes the default VS Code Java starter notes in case you want to customize workspace settings.
+
